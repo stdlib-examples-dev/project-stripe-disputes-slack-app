@@ -1,0 +1,8 @@
+{
+  "name": "project-stripe-dispute-slack-app",
+  "author": "ymusleh <yusuf@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

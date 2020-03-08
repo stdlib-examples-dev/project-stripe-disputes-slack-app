@@ -1,0 +1,11 @@
+{
+  "name": "ymusleh/project-stripe-dispute-slack-app",
+  "version": "0.0.0",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/stripe/charge/dispute/created.js": {
+      "name": "stripe.charge.dispute.created"
+    }
+  }
+}
